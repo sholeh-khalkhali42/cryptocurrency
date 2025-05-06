@@ -1,17 +1,16 @@
 # Cryptocurrency Dashboard
-
-A modern cryptocurrency dashboard built with React and Tailwind CSS. This project fetches real-time data from the CoinRanking API and displays key metrics, price charts, and news updates for various cryptocurrencies.
+Live-Demo   https://sholehprojectcryptocurrency.netlify.app/
+A modern cryptocurrency dashboard built with React . This project fetches real-time data from the CoinRanking API and displays key metrics, price charts, and news updates for various cryptocurrencies.
 
 ## Features
 - Real-time cryptocurrency data
 - Interactive price charts
 - Latest crypto news and updates
-- Responsive design with Tailwind CSS
+- Responsive design
 - Clean and modular React components
 
 ## Technologies Used
 - React
-- Tailwind CSS
 - CoinRanking API
 - Axios (for HTTP requests)
 - React Router (for navigation)
